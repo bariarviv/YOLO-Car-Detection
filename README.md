@@ -8,7 +8,7 @@ It is popular for object detection because of the detection speed, often demonst
 
 # Results
 Input image:
-![alt text](https://github.com/bariarviv/YOLO-Car-Detection/inputs/input_image.jpg?raw=true)
+![alt text](https://github.com/bariarviv/YOLO-Car-Detection/blob/master/inputs/input_image.jpg?raw=true)
 
 Output image:
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
