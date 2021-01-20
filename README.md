@@ -4,8 +4,6 @@ Object detection is a computer vision task that involves both localizing one or 
 
 The You Only Look Once (YOLO), a family of models is a series of end-to-end deep learning models designed for fast object detection. The approach involves a single deep convolutional neural network that splits the input into a grid of cells and each cell directly predicts a bounding box and object classification. The result is a large number of candidate bounding boxes that are consolidated into a final prediction by a post-processing step. 
 
-It is popular for object detection because of the detection speed, often demonstrated in real-time on video or with camera feed input.
-
 # Results
 Input image:
 ![alt text](https://github.com/bariarviv/YOLO-Car-Detection/blob/master/inputs/input_image.jpg?raw=true "input")
